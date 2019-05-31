@@ -1,13 +1,13 @@
 # bad-stats
-Miscellaneous examples of bad and terrible statistics
+Miscellaneous examples of bad and terrible statistics. This is *neither* a systematic collection of statistical errors *nor* a pillory for the sources from which the examples originated. The mistakes and problems outlined below are pretty common and I just happened to stumble across them in the publications I often read. The fact that you see a lot of bad examples from Swiss media outlets does not meand that Swiss journalists are particularly bad at statistics. It just means that I read Swiss newspapers more often than foreign ones. 
 
-## Circles
+## Using circles for data visualisations
 Circles are bad for representing numbers as their area doubles with only a
 &radic;2 increase of the radius:
 
-![Image source: NZZ Neue Zürcher Zeitung](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/flughaefen-und-flugplaetze.jpg)
+![Image source: NZZ, Die grossen Flugplätze wachsen, die kleinen schrumpfen](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/flughaefen-und-flugplaetze.jpg)
 
-Image source: [NZZ Neue Zürcher Zeitung](https://www.facebook.com/nzz/)
+Image source: [NZZ, Die grossen Flugplätze wachsen, die kleinen schrumpfen](https://www.nzz.ch/schweiz/schweizerische-regionalflugplaetze-die-grossen-flugplaetze-wachsen-die-kleinen-schrumpfen-ld.146496)
 
 ![Image source: Al Gore/TED 12:15](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/BurnableFossilFuels.png)
 
