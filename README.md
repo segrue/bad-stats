@@ -20,12 +20,14 @@ When making comparisons between different units (population groups, countries et
 
 In the following example, percentage of smokers in a countries are plotted against the price of a pack of cigarettes in those countries. At first glance, the plot seems to indicate that cigarette prices are not correlated to percentages of smokers in a country. However, the prices are not adjusted for purchasing power, hence making the comparison between the different countries pretty much pointless. After all, $5 for a pack of cigarettes might be not much for a Swiss smoker, but is rather expensive for a Tanzanian smoker.
 
-![Image source: Watson, Diese Weltkarte zeigt, in welchem Land am meisten geraucht wird](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/raucheranteil-und-zigarettenpreise.jpg)
+![Image source: Watson, Diese Weltkarte zeigt, in welchem Land am meisten geraucht wird](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/raucheranteil-und-zigarettenpreise.png)
 
 Image source: [Watson, Diese Weltkarte zeigt, in welchem Land am meisten geraucht wird](https://www.watson.ch/wissen/die%20welt%20in%20karten/812614572-diese-weltkarte-zeigt-welche-nationen-am-meisten-rauchen)
 
 ## Questionable fits
 Many scatter plots often contain a regression line to highlight the supposed trend of the data. Often, this comes down to a linear regression line---even in cases in which the data does not warrant a linear fit. 
+
+The following scatter plot shows the percentage of childern entering highschool in a given community plotted against the respective ["Sozialindex"](https://www.bista.zh.ch/_pub/sozialindex.aspx), a metric used by the canton of Zurich to measure the social burden within a given community. The regression fit could be visibly improved if a quadratic and not a linear fit would be used.
 
 ![Image source: Tages-Anzeiger, Wo es viele Kinder ans Gymi schaffen](https://raw.githubusercontent.com/segrue/bad-stats/master/fig/sozialindex-gymiuebertritt.jpg)
 
