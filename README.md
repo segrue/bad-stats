@@ -1,4 +1,4 @@
-# bad-stats
+# Stupid Statistics
 Miscellaneous examples of bad and terrible statistics. This is *neither* a systematic collection of statistical errors *nor* a pillory for the sources from which the examples originated. The mistakes and problems outlined below are pretty common and I just happened to stumble across them in the publications I often read. The fact that you see a lot of bad examples from Swiss media outlets does not meand that Swiss journalists are particularly bad at statistics. It just means that I read Swiss newspapers more often than foreign ones. 
 
 Did you stumble across a good example for bad stats? Then send me an [e-mail](ervan.grueninger@protonmail.com) or a pull request with a quick explanation of why you believe it’s bad statistics.
