@@ -7,3 +7,8 @@ Zucker schnupfen: https://twitter.com/dittrich_lars/status/1113711587980918784?s
 Questionable quadratic fits: 
 https://twitter.com/statsepi/status/1115887801650876419
 
+plot with too few data points (red points > variance is not really estimable) https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc
+
+why this cartoon is inaccurate: https://statmodeling.stat.columbia.edu/2012/11/10/16808/
+The Frequentist wouldn't simply rely one measurement, but instead make several independent measurements
+
